@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\abdak\source\repos\snake\snake\Main.cpp(58,17): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\abdak\source\repos\snake\snake\Main.cpp(59,17): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\abdak\source\repos\snake\snake\Main.cpp(105,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\abdak\source\repos\snake\snake\Main.cpp(106,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  snake.vcxproj -> C:\Users\abdak\source\repos\snake\Debug\snake.exe
